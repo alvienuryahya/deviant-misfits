@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --haiti: #0b132b;
+  --cloud-burst: #1c2541;
+  --fiord: #3a506b;
+}
