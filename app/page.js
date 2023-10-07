@@ -20,7 +20,7 @@ export default function Home() {
           <p className="text-center w-28 font-bold">ABOUT US</p>
           <p className="text-justify w-52">
             We are Deviant Misfits. <br /> We are a chill ass guild with many contents. <br />
-            You mfs come join and you'll get to talk to femboys for free!
+            You mfs come join and you will get to talk to femboys for free!
           </p>
         </div>
         <div className="ml-[-10px] text-lg leading-8 text-white w-full flex flex-wrap justify-center gap-x-5 sm:max-2xl:mt-10 ml-14 h-fit">
